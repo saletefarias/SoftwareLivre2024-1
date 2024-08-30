@@ -1,11 +1,11 @@
-# Relatório do Trabalho Final - Eric Pereira
+# Relatório do Trabalho Final - Daniel XYZ
 
-* Nome completo: Eric Felipe de Oliveira Pereira
-* Nível: Pós-Graduação
-* Matrícula: 201820070021
-* [Trabalho em Duplas](https://github.com/gustavopinto/tesl/blob/master/duplas/Dupla_CASSIO_ERIC.md)
+* Nome completo: Daniel Rocha Moura Lima
+* Nível: Graduação
+* Matrícula: 201820000000
+* [Trabalho em Duplas / Individual / Equipe]
 
-## Reportar Bug
+## Reportar Bug 
 
 * Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK.
 * Foi aberta uma [issue](https://github.com/JabRef/jabref/issues/5100) para reportar um bug na ferramenta JabRef ao editar uma referência.
