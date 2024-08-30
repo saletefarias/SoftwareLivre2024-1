@@ -14,7 +14,7 @@ Um exemplo de como ficaria o relatório do aluno segue abaixo:
 - **Nome completo:** Daniel X
 - **Nível:** Graduação
 - **Matrícula:** XXXXXXXXX
-- **Trabalho em Duplas / Individual**
+- **Trabalho em Duplas / Equipe / Individual**
 
 ## Reportar Bug
 
