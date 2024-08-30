@@ -3,7 +3,7 @@
 Esse arquivo compila **todas as colaborações** realizadas pela turma durante a realização do trabalho final.
 O propósito deste arquivo é permitir uma visão global de tudo o que foi desenvolvido, de maneira simples e rápida.
 
-As colaborações estão divididas por tipos, conforme estabelecido na [especificação do trabalho final](../TrabalhoFinal.md), e devem seguir o seguinte padrão:
+As colaborações estão divididas por tipos, conforme estabelecido na [especificação do trabalho final](TrabalhoFinal.md), e devem seguir o seguinte padrão:
 
 `* frase descrevendo o que foi feito ([link para a colaboração]() - [@usuario]())`
 
