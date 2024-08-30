@@ -53,4 +53,4 @@ Um exemplo de como ficaria o relatório do aluno segue abaixo:
    - Permite que o OpenDSSDirect busque o caminho para o GCC independente da distribuição ([OpenDSSDirect#24](https://github.com/Muxelmann/OpenDSSDirect.make/issues/24)).
    - Adiciona o comando `END REPEAT` para o pacote `algorithms` do LaTeX ([algorithms#1](https://github.com/algorithms/algorithms/issues/1)).
 
-
+**Não esqueça de copiar para o Relatório Final da Turma no local apropriado**
