@@ -1,7 +1,5 @@
 #Relatório do Trabalho Final
-
 Nessa pasta cada aluno deve colocar um arquivo que será o relatório do Trabalho Final desenvolvido. Para tanto, devem ser realizados os seguintes passos:
-
     Copiar o arquivo trabalho-final.md e renomeá-lo para seu nome, por exemplo, DanielX.md;
     Preencher os dados solicitados no modelo;
     Separar cada tipo de trabalho, da maneira como estão especificados no documento do trabalho final, em subseções de segundo nível (##);
