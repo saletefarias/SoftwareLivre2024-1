@@ -7,7 +7,7 @@
 
 ## Observações:
 
-*  Utilizei minha conta pessoal do Github para fork do reposítório principal e adição das contribuições realizadas
+*  Usei minha conta pessoal do Github (https://github.com/AlexandrinoMaranhao) tanto para fork do reposítório principal quanto para adição das contribuições realizadas
 *  
 
 
