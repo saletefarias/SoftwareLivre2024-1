@@ -5,6 +5,12 @@
 * Matrícula: 20221SI0015
 * Trabalho: Individual
 
+## Observações:
+
+*  Utilizei minha conta pessoal do Github para fork do reposítório principal e adição das contribuições realizadas
+*  
+
+
 ## Reportar Bug 
 
 * Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK.
