@@ -8,7 +8,12 @@
 ## Observações:
 
 *  Usei minha conta pessoal do Github (https://github.com/AlexandrinoMaranhao) tanto para fork do reposítório principal quanto para adição das contribuições realizadas
-*  
+*  Projeto(s): Mozilla Developers Network (MDN) é uma plataforma de aprendizagem em evolução para tecnologias da Web e o software que alimenta a Web, incluindo:
+
+   * Padrões web como CSS, HTML, e JavaScript
+   * Open Web app development
+   * Firefox add-on development
+
 
 
 ## Reportar Bug 
