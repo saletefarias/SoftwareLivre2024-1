@@ -1,13 +1,13 @@
 # Relatório do Trabalho Final - Marcio Sá
 
-* Nome completo: Marcio Sá de Brito Junior
-* Nível: Graduação
-* Matrícula: 20221SI0015
-* Trabalho: Individual
+* Nome completo: **Marcio Sá de Brito Junior**
+* Nível: **Graduação**
+* Matrícula: **20221SI0015**
+* Trabalho: [**Individual**, **Em Dupla**];
 
 ## Observações:
 
-*  Usei minha conta pessoal do Github (https://github.com/AlexandrinoMaranhao) tanto para fork do reposítório principal quanto para adição das contribuições realizadas
+*  Usei minha conta pessoal do _[Github](https://github.com/AlexandrinoMaranhao)_ tanto para fork do reposítório principal quanto para adição das contribuições realizadas
 *  Projeto(s): Mozilla Developers Network (MDN) é uma plataforma de aprendizagem em evolução para tecnologias da Web e o software que alimenta a Web, incluindo:
 
    * Padrões web como CSS, HTML, e JavaScript
@@ -30,6 +30,6 @@
 
 ## Melhorar Documentação
 
-* Foi feito o [PR #23601](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN;
+* Foi feito o [PR #23601](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN; - Aguardando aprovação da equipe MDN
 * <!-- Foi feito o [pull request](https://github.com/elvisthermo/formularioCategorizacao/pull/1) -->
 * PLACEHOLDER .
