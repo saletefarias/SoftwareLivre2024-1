@@ -23,8 +23,8 @@
 
 ## Melhorar Documentação (Individual)
 
-* Foi feito o [PR #23601](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN; - Aguardando aprovação da equipe de localização PT-BR da MDN
-* <!-- Foi feito o [pull request](https://github.com/elvisthermo/formularioCategorizacao/pull/1) -->
+* Foi feito o [PR #23601](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN; *Aguardando aprovação da equipe de localização PT-BR da MDN*
+* Foi feito o [PR #23617](https://github.com/mdn/translated-content/pull/23617) atualizando uma página sobre Design Responsivo em CSS que estava parcialmente traduzida e da parte que estava traduzido estava datado e precisando ser reorganizado; *Aguardando aprovação da equipe de localização PT-BR da MDN*
 * PLACEHOLDER .
 
 ## Reportar Bug 
