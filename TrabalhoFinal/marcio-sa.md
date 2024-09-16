@@ -30,6 +30,6 @@
 
 ## Melhorar Documentação
 
-* Foi feito o [pull request](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN;
+* Foi feito o [PR #23601](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN;
 * <!-- Foi feito o [pull request](https://github.com/elvisthermo/formularioCategorizacao/pull/1) -->
 * PLACEHOLDER .
