@@ -15,21 +15,20 @@
    * Firefox add-on development
 
 
-
-## Reportar Bug 
-
-* <!-- Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK.-->
-* <!--Foi aberta uma [issue](https://github.com/JabRef/jabref/issues/5100) para reportar um bug na ferramenta JabRef ao editar uma referência. -->
-* PLACEHOLDER
-
-## Realizar Tradução
+## Realizar Tradução (Individual)
 
 * <!-- Foi feito o [pull request](https://github.com/okkur/syna/pull/573) para a tradução PT-BR do tema Syna. -->
 * <!-- Foi feito o [pull request](https://github.com/budparr/gohugo-theme-ananke/pull/179) para a tradução PT-BR do tema Ananke.-->
 * PLACEHOLDER
 
-## Melhorar Documentação
+## Melhorar Documentação (Individual)
 
-* Foi feito o [PR #23601](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN; - Aguardando aprovação da equipe MDN
+* Foi feito o [PR #23601](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN; - Aguardando aprovação da equipe de localização PT-BR da MDN
 * <!-- Foi feito o [pull request](https://github.com/elvisthermo/formularioCategorizacao/pull/1) -->
 * PLACEHOLDER .
+
+## Reportar Bug 
+
+* <!-- Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK.-->
+* <!-- Foi aberta uma [issue](https://github.com/JabRef/jabref/issues/5100) para reportar um bug na ferramenta JabRef ao editar uma referência. -->
+* PLACEHOLDER
