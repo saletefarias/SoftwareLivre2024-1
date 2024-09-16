@@ -19,16 +19,16 @@
 
 * <!-- Foi feito o [pull request](https://github.com/okkur/syna/pull/573) para a tradução PT-BR do tema Syna. -->
 * <!-- Foi feito o [pull request](https://github.com/budparr/gohugo-theme-ananke/pull/179) para a tradução PT-BR do tema Ananke.-->
-* PLACEHOLDER
+* PLACEHOLDER [PR #]().
 
 ## Melhorar Documentação (Individual)
 
 * Foi feito o [PR #23601](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN; *Aguardando aprovação da equipe de localização PT-BR da MDN*
-* Foi feito o [PR #23617](https://github.com/mdn/translated-content/pull/23617) atualizando uma página sobre Design Responsivo em CSS que estava parcialmente traduzida e da parte que estava traduzido estava datado e precisando ser reorganizado; *Aguardando aprovação da equipe de localização PT-BR da MDN*
-* PLACEHOLDER .
+* Foi feito o [PR #23617](https://github.com/mdn/translated-content/pull/23617) atualizando uma página sobre Design Responsivo em CSS que estava parcialmente traduzida e da parte que estava traduzida, havia texto datado que precisava ser readequado com o arquivo upstream; *Aguardando aprovação da equipe de localização PT-BR da MDN*
+* PLACEHOLDER [PR #]().
 
 ## Reportar Bug 
 
 * <!-- Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK.-->
 * <!-- Foi aberta uma [issue](https://github.com/JabRef/jabref/issues/5100) para reportar um bug na ferramenta JabRef ao editar uma referência. -->
-* PLACEHOLDER
+* PLACEHOLDER [PR #]().
