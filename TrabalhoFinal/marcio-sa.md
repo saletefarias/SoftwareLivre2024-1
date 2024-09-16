@@ -30,6 +30,6 @@
 
 ## Melhorar Documentação
 
-* <!-- Foi feito o [pull request](https://github.com/DivulgacaoCientifica/divulgacaocientifica/pull/15) para a atualização da lista de podcast, melhorando assim a documentação. -->
-* <!-- Foi feito o [pull request](https://github.com/elvisthermo/formularioCategorizacao/pull/1) para a criação do arquivo de licença, criação do arquivo contributing e melhora do arquivo readme. -->
+* <!-- Foi feito o [pull request](https://github.com/DivulgacaoCientifica/divulgacaocientifica/pull/15) -->
+* <!-- Foi feito o [pull request](https://github.com/elvisthermo/formularioCategorizacao/pull/1) -->
 * PLACEHOLDER
