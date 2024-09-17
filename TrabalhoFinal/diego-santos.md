@@ -17,5 +17,5 @@ Usuário utilizado para tradução e documentação pode ser encontrado em: [www
 ## Realizar Tradução
 
 * Foi feito uma contribuição [www.mediawiki.org/wiki/Manual:MySQL/pt-br] para a tradução PT-BR do manual do MySQL no MediaWiki.
-* Foi feito  uma contribuição [https//w.wiki/BAsQ)] para a tradução PT-BR da página sobre Banco de Dados Compartilhados do MYSQL no MediaWiki.
+* Foi feito  uma contribuição [w.wiki/BAsQ)] para a tradução PT-BR da página sobre Banco de Dados Compartilhados do MYSQL no MediaWiki.
 
