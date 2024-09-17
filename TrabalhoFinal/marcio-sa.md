@@ -7,8 +7,8 @@
 
 ## Observações:
 
-*  Usei minha conta pessoal do _[Github](https://github.com/AlexandrinoMaranhao)_ tanto para fork do reposítório principal quanto para adição das contribuições realizadas
-*  Projeto(s): Mozilla Developers Network (MDN) é uma plataforma de aprendizagem em evolução para tecnologias da Web e o software que alimenta a Web, incluindo:
+*  Usei minha conta pessoal do _[Github](https://github.com/AlexandrinoMaranhao)_ tanto para fork do repositório principal quanto para adição das contribuições realizadas
+*  Projeto(s) para os quais contribuí: Mozilla Developers Network (MDN) é uma plataforma de aprendizagem em evolução para tecnologias da Web e o software que alimenta a Web, incluindo:
 
    * Padrões web como CSS, HTML, e JavaScript
    * Open Web app development
@@ -24,7 +24,7 @@
 ## Melhorar Documentação (Individual)
 
 * Foi feito o [PR #23601](https://github.com/mdn/translated-content/pull/23601) corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução da documentação MDN; *Aguardando aprovação da equipe de localização PT-BR da MDN*
-* Foi feito o [PR #23617](https://github.com/mdn/translated-content/pull/23617) atualizando uma página sobre Design Responsivo em CSS que estava parcialmente traduzida e da parte que estava traduzida, havia texto datado que precisava ser readequado com o arquivo upstream; *Aguardando aprovação da equipe de localização PT-BR da MDN*
+* Foi feito o [PR #23617](https://github.com/mdn/translated-content/pull/23617) atualizando uma página sobre Design Responsivo em CSS da documentação MDN que estava parcialmente traduzida e da parte que estava traduzida, havia texto datado que precisava ser readequado com o arquivo upstream; *Aguardando aprovação da equipe de localização PT-BR da MDN*
 * PLACEHOLDER [PR #]().
 
 ## Reportar Bug 
