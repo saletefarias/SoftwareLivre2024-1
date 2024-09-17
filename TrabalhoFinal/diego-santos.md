@@ -11,8 +11,8 @@ Usuário utilizado para tradução e documentação pode ser encontrado em: [www
 
 ## Melhorar documentação
 
-* Foi feito uma [contribuição](en.wikipedia.org/wiki/FHFS_(file_server)) adicionado documentação a Features (características) e corrigido pontuação.
-* Foi feito  uma [contribuição](pt.wikipedia.org/w/index.php?title=Servidor_de_arquivos_HTTP&direction=prev&oldid=68638311) adicionando documentação a instruções básicas, trabalhando com uploads e restrições de acesso a página (em análise para aprovação).
+* Foi feito uma contribuição (en.wikipedia.org/wiki/FHFS_(file_server)) adicionado documentação a Features (características) e corrigido pontuação.
+* Foi feito  uma contribuição (pt.wikipedia.org/w/index.php?title=Servidor_de_arquivos_HTTP&direction=prev&oldid=68638311) adicionando documentação a instruções básicas, trabalhando com uploads e restrições de acesso a página (em análise para aprovação).
 
 ## Realizar Tradução
 
