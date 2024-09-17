@@ -4,7 +4,7 @@
 * Nível: Graduação
 * Matrícula: SI1521004-21          
 * Individual
- 
+
 ## Nota
 
 Usuário utilizado para tradução e documentação pode ser encontrado em: [www.mediawiki.org/wiki/Special:Contributions/Siwfi]
