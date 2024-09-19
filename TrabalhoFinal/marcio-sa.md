@@ -19,7 +19,7 @@
 
 ## Realizar Tradução (Individual)
 
-* <!-- Foi feito o [pull request](https://github.com/okkur/syna/pull/573) para a tradução PT-BR do tema Syna. -->
+* Foi feito o [PR #23653](https://github.com/mdn/translated-content/pull/23653) para a tradução em PT-BR da página sobre Programação Orientada a Objetos - [original aqui](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming) - que faz parte da documentação de JavaScript da MDN; *Aguardando aprovação da equipe de localização PT-BR da MDN*
 * <!-- Foi feito o [pull request](https://github.com/budparr/gohugo-theme-ananke/pull/179) para a tradução PT-BR do tema Ananke.-->
 * PLACEHOLDER [PR #]().
 
