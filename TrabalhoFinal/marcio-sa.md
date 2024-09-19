@@ -14,6 +14,7 @@
    * Open Web app development
    * Firefox add-on development
 
+#### ===========================================================================================
 
 ### *Seção de Atividades Individuais*
 
