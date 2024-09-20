@@ -4,6 +4,7 @@
 * Nível: Graduação
 * Matrícula: 20222SI0010
 * Trabalho em Dupla
+* Outro componente: Brendon Nicholas de Oliveira Silva
 
 ## Tradução
 
