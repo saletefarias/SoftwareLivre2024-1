@@ -35,12 +35,18 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 ## Realizar tradução (1)
 
 * EXEMPLO Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@danielXYZ](https://github.com/danielxyz))
+  
+* Foi feito a [tradução](https://docs.google.com/presentation/d/1jslBpZlaSi5D8dGLpMDhHx7__1fY_LmqgXw7haiOgTo/edit?usp=sharing) de funcionalidades da biblioteca calendario da documentação do Python - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
+* 
 
 
 ## Corrigir bug (?)
 
 
 ## Adicionar pequena funcionalidade (?)
+
+* Foi feito o [pull request](https://github.com/cardo-podcast/cardo/pull/5/commits/8baef31b292edcd359a0a9a75919561d9abe8bcb) Essa solicitação de pull adiciona um componente VolumeControl ao arquivo AudioPlayer.tsx, permitindo que os usuários ajustem o volume e alternem entre os estados mudo e som. O componente inclui ícones para estados de volume e mudo e atualiza o volume de áudio e o estado mudo conforme necessário - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
+
 
 
 ## Adicionar grande funcionalidade (?)
@@ -49,4 +55,5 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Desenvolver estudo original com artigo sobre software livre (?)
 
+*Foi feito estudo original com artigo sobre software livre como alternativa ao monopólio tecnológico [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
 
