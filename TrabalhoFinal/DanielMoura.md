@@ -8,7 +8,7 @@
 
 ## Tradução
 
-* Foi feito a [[tradução](https://docs.google.com/presentation/d/1jslBpZlaSi5D8dGLpMDhHx7__1fY_LmqgXw7haiOgTo/edit?usp=sharing)] de funcionalidades do metodo calendario da biblioteca python.
+* Foi feito a [[tradução](https://docs.google.com/presentation/d/1jslBpZlaSi5D8dGLpMDhHx7__1fY_LmqgXw7haiOgTo/edit?usp=sharing)] de funcionalidades da biblioteca calendario da documentação do Python .
 
 
 ## Implementação de Funcionalidade
