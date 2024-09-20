@@ -12,7 +12,7 @@
 
 ## Implementação de Funcionalidade
 
-* Foi feito o [[pull request]([https://github.com/cardo-podcast/cardo/pull/5])] Essa solicitação de pull adiciona um componente VolumeControl ao arquivo AudioPlayer.tsx, permitindo que os usuários ajustem o volume e alternem entre os estados mudo e som. O componente inclui ícones para estados de volume e mudo e atualiza o volume de áudio e o estado mudo conforme necessário.
+* Foi feito o [[pull request](https://github.com/cardo-podcast/cardo/pull/5/commits/8baef31b292edcd359a0a9a75919561d9abe8bcb)] Essa solicitação de pull adiciona um componente VolumeControl ao arquivo AudioPlayer.tsx, permitindo que os usuários ajustem o volume e alternem entre os estados mudo e som. O componente inclui ícones para estados de volume e mudo e atualiza o volume de áudio e o estado mudo conforme necessário.
 
 
 ## Realização de Estudo de Artigo
