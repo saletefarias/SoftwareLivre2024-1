@@ -20,8 +20,8 @@
 
 ## Realizar Tradução (Individual)
 
-* Foi feito o [PR #23653](https://github.com/mdn/translated-content/pull/23653) para a tradução em PT-BR da página sobre Programação Orientada a Objetos - [original aqui](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming) - que faz parte da documentação de JavaScript da MDN; *Aguardando aprovação da equipe de localização PT-BR da MDN*
-* <!-- Foi feito o [PR #]() para a tradução PT-BR do tema Ananke. *Aguardando aprovação da equipe de localização PT-BR da MDN* -->
+* Foi feito o [PR #23653](https://github.com/mdn/translated-content/pull/23653) da tradução para PT-BR da página sobre Programação Orientada a Objetos - [original em inglês aqui](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming) - que faz parte da documentação de JavaScript da MDN; *Aguardando aprovação da equipe de localização PT-BR da MDN*
+* Foi feito o [PR #23720](https://github.com/mdn/translated-content/pull/23720) da tradução para PT-BR da página sobre o método estático da API Url [original em inglês aqui](https://developer.mozilla.org/en-US/docs/Web/API/URL/canParse_static) presente na documentação MDN. *Aguardando aprovação da equipe de localização PT-BR da MDN*
 * PLACEHOLDER [PR #]().
 
 ## Melhorar Documentação (Individual)
