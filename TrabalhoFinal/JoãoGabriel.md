@@ -7,7 +7,7 @@
 
 ## Reportar Bug 
 
-* Foi aberta uma [issue]([https://github.com/mauricioaniche/ck/issues/19](https://github.com/hydralauncher/hydra/issues/880)) para reportar um bug no ao executar a ferramenta Hydra Launcher.
+* Foi aberta uma issue para reportar um bug no ao executar a ferramenta Hydra Launcher. Link: [https://github.com/mauricioaniche/ck/issues/19](https://github.com/hydralauncher/hydra/issues/880]
 * Foi feito o [issue]([https://github.com/okkur/syna/pull/573](https://github.com/Anish-M-code/pqcrypt/issues/20#issuecomment-2306482366)) sobre a necessidade da tradução PT-BR do readme do PQcrypts.
 
 ## Realizar Tradução
