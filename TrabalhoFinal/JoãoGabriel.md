@@ -12,13 +12,13 @@
 
 ## Realizar Tradução
 
-* Foi feito o ![imagem_2024-08-03_104733442](https://github.com/user-attachments/assets/351ac576-78f2-45e7-ae40-028ebfa4478c) para a tradução PT-BR do readme do PQcrypts.
+* Foi feito um arquivo para a tradução PT-BR do readme do PQcrypts. Imagem: ![imagem_2024-08-03_104733442](https://github.com/user-attachments/assets/351ac576-78f2-45e7-ae40-028ebfa4478c)
 * (coloquei esses dois pois não achei o link do pull request)
 
 ## Desenvolver estudo original com artigo sobre software livre
 
-* Foi feito um artigo (https://docs.google.com/document/d/1tvW9RR1dEYARSKVN9DEYFbcYwxfTLM3p2UNdCsWnYMM/edit?usp=sharing) sobre o tema Desmistificando o Software Livre: O Que Você Precisa Saber.
-* Foi feito um artigo de opinião (https://docs.google.com/document/d/1kJaHgDDClOBYXZzt2TRzg9RwxOQYnYVDqYPIRVhaRzI/edit?usp=sharing) sobre o tema  Hydra Launcher: Consequeências sobre o Uso da Pirataria.
+* Foi feito um artigo sobre o tema Desmistificando o Software Livre: O Que Você Precisa Saber. Link: https://docs.google.com/document/d/1tvW9RR1dEYARSKVN9DEYFbcYwxfTLM3p2UNdCsWnYMM/edit?usp=sharing
+* Foi feito um artigo de opinião sobre o tema  Hydra Launcher: Consequeências sobre o Uso da Pirataria. Link: https://docs.google.com/document/d/1kJaHgDDClOBYXZzt2TRzg9RwxOQYnYVDqYPIRVhaRzI/edit?usp=sharing
 
 
 
