@@ -43,7 +43,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 *  Correção de bug para ferramenta de save automático que estava salvando os documentos sem a existência de qualquer alteração. ([PR #18](https://github.com/Slacky300/REAL_TIME_EDIFY/pull/18) - [a-mais(paulo-pinheiro)](https://github.com/a-mais));
 
 
-## Adicionar pequena funcionalidade (4)
+## Adicionar pequena funcionalidade (5)
 
 * Inclusão de suporte a [Deeplink Android](https://developer.android.com/training/app-links#deep-links) para tema NextJs: Funcionalidade permite que os usuários através de links ou do navegador possam ser redirecionados para os aplicativos que suportam a fonte de dados que usa o tema como base. ([PR #3231](https://github.com/keiyoushi/extensions-source/pull/3231) - [Chopper(daniel-rocha)](https://github.com/choppeh));
 * Inclusão de suporte para configuração de [User-Agent](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers/User-Agent) para extensão japonesa MangaMate. Funcionalidade adiciona suporte para configuração individual de User-Agent, feature soluciona problemas relacionados a proteção contra robôs da Cloudflare ([PR #3162](https://github.com/keiyoushi/extensions-source/pull/3162) - [Chopper(daniel-rocha)](https://github.com/choppeh));
@@ -53,6 +53,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Foi feito o [pull request](https://github.com/cardo-podcast/cardo/pull/5/commits/8baef31b292edcd359a0a9a75919561d9abe8bcb) Essa solicitação de pull adiciona um componente VolumeControl ao arquivo AudioPlayer.tsx, permitindo que os usuários ajustem o volume e alternem entre os estados mudo e som. O componente inclui ícones para estados de volume e mudo e atualiza o volume de áudio e o estado mudo conforme necessário - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
 
+* Adição de menu responsivo ao site do projeto [VsCodium](https://vscodium.com/) ([PR #87](https://github.com/VSCodium/vscodium.github.io/pull/87) - [@daniel99korban(daniel-lima)](https://github.com/daniel99korban));
 
 
 ## Adicionar grande funcionalidade (4)
