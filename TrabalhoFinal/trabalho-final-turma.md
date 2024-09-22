@@ -20,20 +20,23 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 ## Reportar bug (0)
 
 
-## Melhorar documentação (0)
+## Melhorar documentação (4)
+* Melhoria de documentação corrigindo um erro tipográfico no código JavaScript embeddado numa das páginas de introdução ao desenvolvimento web da documentação MDN, melhorando a documentação existente ([contribuição - pull request #23601](https://github.com/mdn/translated-content/pull/23601)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
+* Melhoria de de documentação atualizando uma página sobre Design Responsivo em CSS da documentação MDN que estava parcialmente traduzida e da parte que estava traduzida, havia texto datado que precisava ser readequado com o arquivo upstream, melhorando a documentação existente, issue vinculada [aqui](https://github.com/mdn/translated-content/issues/21528) ([contribuição - pull request #23617](https://github.com/mdn/translated-content/pull/23617)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
+* Melhoria de de documentação corrigindo um erro tipográfico na palavra "precisa" - mais informações na [issue](https://github.com/mdn/translated-content/issues/23083) ligada à pull request e a própria pull request - além de outras correções para adequação da página ([contribuição - pull request #23701](https://github.com/mdn/translated-content/pull/23701)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
+* Melhoria de de documentação corrigindo documentação desatualizada, parcialemnte traduzida e com código utilizando propriedade deprecada de DOMException mais detalhes na [issue](https://github.com/mdn/translated-content/issues/18654) que essa pull request propõe resolver ([contribuição - pull request #23733](https://github.com/mdn/translated-content/pull/23733)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao).
 
-
-## Realizar tradução (3)
+## Realizar tradução (5)
 
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=658e910cac54b47a) - [@davidAly(david-alysson)](https://github.com/DavidAly));
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=4098574c0e119176) - [@davidAly(david-alysson)](https://github.com/DavidAly));
-
-
-
-* EXEMPLO Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@danielXYZ](https://github.com/danielxyz))
   
+* Tradução para PT-BR da página sobre Programação Orientada a Objetos com JavaScript que faz parte da documentação de JavaScript da MDN ([contribuição - pull request #23653](https://github.com/mdn/translated-content/pull/23653)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
+* Tradução para PT-BR da página sobre o método estático canParse() da API URL presente na documentação de APIs da MDN ([contribuição - pull request #23720](https://github.com/mdn/translated-content/pull/23720)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
+
+
 * Foi feito a [tradução](https://docs.google.com/presentation/d/1jslBpZlaSi5D8dGLpMDhHx7__1fY_LmqgXw7haiOgTo/edit?usp=sharing) de funcionalidades da biblioteca calendario da documentação do Python - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
-* 
+
 ## Corrigir bug (4)
 
 
