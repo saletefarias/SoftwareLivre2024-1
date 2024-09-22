@@ -22,8 +22,8 @@
 
 * Foi feito o [PR #23653](https://github.com/mdn/translated-content/pull/23653) da tradução para PT-BR da página sobre Programação Orientada a Objetos com JavaScript - [original em inglês aqui](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming) - que faz parte da documentação de JavaScript da MDN; *Aguardando aprovação da equipe de localização PT-BR da MDN*
 * Foi feito o [PR #23720](https://github.com/mdn/translated-content/pull/23720) da tradução para PT-BR da página sobre o método estático canParse() da API URL [original em inglês aqui](https://developer.mozilla.org/en-US/docs/Web/API/URL/canParse_static) presente na documentação de APIs da MDN. *Aguardando aprovação da equipe de localização PT-BR da MDN*
-* PLACEHOLDER [PR #]().
-* PLACEHOLDER [PR #]().
+* <!-- PLACEHOLDER [PR #](). -->
+* <!-- PLACEHOLDER [PR #](). -->
 
 ## Melhorar Documentação (Individual)
 
@@ -36,6 +36,6 @@
 
 * <!-- Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK.-->
 * <!-- Foi aberta uma [issue](https://github.com/JabRef/jabref/issues/5100) para reportar um bug na ferramenta JabRef ao editar uma referência. -->
-* PLACEHOLDER [PR #]().
+* <!-- PLACEHOLDER [PR #](). -->
 
 ### *Seção de Atividades em Dupla (WIP - Hiatus)*
