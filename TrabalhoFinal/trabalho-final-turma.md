@@ -53,6 +53,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adicionado funcionalidade de tema escuro e claro e botão alternador de modo escuro e modo claro para todo o software com persistência da escolha do modo em sessão  ([PR #17](https://github.com/Slacky300/REAL_TIME_EDIFY/pull/17) - [a-mais(paulo-pinheiro)](https://github.com/a-mais));
 
-## Desenvolver estudo original com artigo sobre software livre (0)
+## Desenvolver estudo original com artigo sobre software livre (2)
+
+* Foi feito um artigo (https://docs.google.com/document/d/1tvW9RR1dEYARSKVN9DEYFbcYwxfTLM3p2UNdCsWnYMM/edit?usp=sharing) sobre o tema Desmistificando o Software Livre: O Que Você Precisa Saber.
+* Foi feito um artigo de opinião (https://docs.google.com/document/d/1kJaHgDDClOBYXZzt2TRzg9RwxOQYnYVDqYPIRVhaRzI/edit?usp=sharing) sobre o tema Hydra Launcher: Consequeências sobre o Uso da Pirataria.
 
 
