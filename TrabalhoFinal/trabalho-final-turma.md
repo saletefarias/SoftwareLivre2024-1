@@ -7,6 +7,7 @@ As colaborações estão divididas por tipos, conforme estabelecido na [especifi
 
 * frase descrevendo o que foi feito ([link para a colaboração]() - [@usuario]())
 * OBS: Caso esteja utilizando conta secundária ou pseudônimos e nicknames no nome de usuário, adicionar o @usuario + (seu_nome) no escopo da contribuição*
+
 Por exemplo:
 ```Permite que o OpenDSSDirect busque o caminho para o GCC independente da distribuição ([OpenDSSDirect#24](https://github.com/Muxelmann/OpenDSSDirect.make/pull/24) - [@filipesaraiva](https://github.com/filipesaraiva))```
 ```Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@danielXYZ](https://github.com/danielxyz))```
