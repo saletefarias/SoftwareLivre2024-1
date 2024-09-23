@@ -66,6 +66,12 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adicionado funcionalidade de tema escuro e claro e botão alternador de modo escuro e modo claro para todo o software com persistência da escolha do modo em sessão  ([PR #17](https://github.com/Slacky300/REAL_TIME_EDIFY/pull/17) - [a-mais(paulo-pinheiro)](https://github.com/a-mais));
 
+ GabrielLeite2004-patch-1
+## Desenvolver estudo original com artigo sobre software livre (2)
+
+* Foi feito um artigo (https://docs.google.com/document/d/1tvW9RR1dEYARSKVN9DEYFbcYwxfTLM3p2UNdCsWnYMM/edit?usp=sharing) sobre o tema Desmistificando o Software Livre: O Que Você Precisa Saber.
+* Foi feito um artigo de opinião (https://docs.google.com/document/d/1kJaHgDDClOBYXZzt2TRzg9RwxOQYnYVDqYPIRVhaRzI/edit?usp=sharing) sobre o tema Hydra Launcher: Consequeências sobre o Uso da Pirataria.
+=======
 patch-3
 ## Desenvolver estudo original com artigo sobre software livre (2)
 =======
@@ -79,6 +85,7 @@ patch-3
 main
 
 * Foi feito estudo original com artigo sobre software livre como alternativa ao monopólio tecnológico [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
+main
 
 *Foi criado um estudo orginal (https://docs.google.com/document/d/1Zuemn9eKWMv4Ij97utJV1A1xRpEXgh80ltQ3Ig64LVk/edit?usp=sharing) sobre o tema Software Livre x Software Proprietário, com exemplos práticos. (Diego Rodrigo / Luís Gabriel)
 
