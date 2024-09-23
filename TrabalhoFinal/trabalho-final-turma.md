@@ -29,7 +29,6 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
   
 * Foi feito a [tradução](https://docs.google.com/presentation/d/1jslBpZlaSi5D8dGLpMDhHx7__1fY_LmqgXw7haiOgTo/edit?usp=sharing) de funcionalidades da biblioteca calendario da documentação do Python - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
 
-regiana-cruz
 * Tradução para PT-BR de trechos do arquivo ExpectAPI.md do Jest (v. 2)  ([contribuição](https://crowdin.com/editor/jest-v2/7504/en-ptbr?view=comfortable&filter=basic&value=0#q=1433057)  - [Regiana Cruz](https://github.com/RegianaBarbosa))
 * Tradução para PT-BR de trechos do arquivo CLI.md do Jest (v. 2) ([contribuição](https://crowdin.com/editor/jest-v2/7472/en-ptbr?view=comfortable&filter=basic&value=0#q=1727706) - [Regiana Cruz](https://github.com/RegianaBarbosa))
 
