@@ -3,7 +3,7 @@
 * Nome completo: Antonio Diego do O Santos
 * Nível: Graduação
 * Matrícula: SI1521004-21          
-* Individual
+* Individual   
 
 ## Nota
 
