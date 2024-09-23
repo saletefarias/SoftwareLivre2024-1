@@ -24,8 +24,6 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Melhoria de de documentação corrigindo documentação desatualizada, parcialemnte traduzida e com código utilizando propriedade deprecada de DOMException mais detalhes na [issue](https://github.com/mdn/translated-content/issues/18654) que essa pull request propõe resolver ([contribuição - pull request #23733](https://github.com/mdn/translated-content/pull/23733)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao).
 
  
-## Corrigir bug (0)
-
 ## Realizar Tradução (12)
 
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=658e910cac54b47a) - [@davidAly(david-alysson)](https://github.com/DavidAly));
@@ -47,8 +45,6 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Foi feito a [tradução](https://docs.google.com/presentation/d/1jslBpZlaSi5D8dGLpMDhHx7__1fY_LmqgXw7haiOgTo/edit?usp=sharing) de funcionalidades da biblioteca calendario da documentação do Python - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
 
 ## Corrigir bug (5)
-main
-
 
 * Correção para carregamento de dados: Havia problemas de autorização no acesso de recursos. ([PR #4738](https://github.com/keiyoushi/extensions-source/pull/4738) - [Chopper(daniel-rocha)](https://github.com/choppeh));
 * Correção para autenticação do usuário com a fonte de dados: Usuários logados não conseguiam acessar conteudos protegidos por login. ([PR #4295](https://github.com/keiyoushi/extensions-source/pull/4295) - [Chopper(daniel-rocha)](https://github.com/choppeh));
