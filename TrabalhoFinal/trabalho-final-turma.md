@@ -24,22 +24,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Melhoria de de documentação corrigindo documentação desatualizada, parcialemnte traduzida e com código utilizando propriedade deprecada de DOMException mais detalhes na [issue](https://github.com/mdn/translated-content/issues/18654) que essa pull request propõe resolver ([contribuição - pull request #23733](https://github.com/mdn/translated-content/pull/23733)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao).
 
  
-## Realizar tradução (5)
+## Corrigir bug (0)
 
-* Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=658e910cac54b47a) - [@davidAly(david-alysson)](https://github.com/DavidAly));
-* Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=4098574c0e119176) - [@davidAly(david-alysson)](https://github.com/DavidAly));
-  
-* Tradução para PT-BR da página sobre Programação Orientada a Objetos com JavaScript que faz parte da documentação de JavaScript da MDN ([contribuição - pull request #23653](https://github.com/mdn/translated-content/pull/23653)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
-* Tradução para PT-BR da página sobre o método estático canParse() da API URL presente na documentação de APIs da MDN ([contribuição - pull request #23720](https://github.com/mdn/translated-content/pull/23720)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
+## Realizar Tradução (9)
 
-
-* Foi feito a [tradução](https://docs.google.com/presentation/d/1jslBpZlaSi5D8dGLpMDhHx7__1fY_LmqgXw7haiOgTo/edit?usp=sharing) de funcionalidades da biblioteca calendario da documentação do Python - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
-
-## Corrigir bug (4)
-=======
-* EXEMPLO Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@danielXYZ](https://github.com/danielxyz))
-=======
-## Tradução (9)
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=658e910cac54b47a) - [@davidAly(david-alysson)](https://github.com/DavidAly));
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=4098574c0e119176) - [@davidAly(david-alysson)](https://github.com/DavidAly));
 * Foi realizada a tradução para PT-BR do agregador de podcasts Cardo sob linceça GPL-3.0 [contribuição](https://github.com/cardo-podcast/cardo/pull/1) - [@Br3ndonn(Brendon Silva)](https://github.com/Br3ndonn);
@@ -48,11 +36,15 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@danielXYZ](https://github.com/danielxyz))
 
-  
 * Foi feito a [tradução](https://docs.google.com/presentation/d/1jslBpZlaSi5D8dGLpMDhHx7__1fY_LmqgXw7haiOgTo/edit?usp=sharing) de funcionalidades da biblioteca calendario da documentação do Python - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
 
 * Tradução para PT-BR de trechos do arquivo ExpectAPI.md do Jest (v. 2)  ([contribuição](https://crowdin.com/editor/jest-v2/7504/en-ptbr?view=comfortable&filter=basic&value=0#q=1433057)  - [Regiana Cruz](https://github.com/RegianaBarbosa))
 * Tradução para PT-BR de trechos do arquivo CLI.md do Jest (v. 2) ([contribuição](https://crowdin.com/editor/jest-v2/7472/en-ptbr?view=comfortable&filter=basic&value=0#q=1727706) - [Regiana Cruz](https://github.com/RegianaBarbosa))
+
+* Tradução para PT-BR da página sobre Programação Orientada a Objetos com JavaScript que faz parte da documentação de JavaScript da MDN ([contribuição - pull request #23653](https://github.com/mdn/translated-content/pull/23653)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
+* Tradução para PT-BR da página sobre o método estático canParse() da API URL presente na documentação de APIs da MDN ([contribuição - pull request #23720](https://github.com/mdn/translated-content/pull/23720)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
+
+* Foi feito a [tradução](https://docs.google.com/presentation/d/1jslBpZlaSi5D8dGLpMDhHx7__1fY_LmqgXw7haiOgTo/edit?usp=sharing) de funcionalidades da biblioteca calendario da documentação do Python - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
 
 ## Corrigir bug (5)
 main
