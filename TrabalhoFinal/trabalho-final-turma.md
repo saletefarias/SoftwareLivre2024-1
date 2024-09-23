@@ -58,7 +58,7 @@ main
 
 
 
-## Adicionar pequena funcionalidade (5)
+## Adicionar pequena funcionalidade (7)
 
 
 * Inclusão de suporte a [Deeplink Android](https://developer.android.com/training/app-links#deep-links) para tema NextJs: Funcionalidade permite que os usuários através de links ou do navegador possam ser redirecionados para os aplicativos que suportam a fonte de dados que usa o tema como base. ([PR #3231](https://github.com/keiyoushi/extensions-source/pull/3231) - [Chopper(daniel-rocha)](https://github.com/choppeh));
