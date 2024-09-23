@@ -36,6 +36,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * EXEMPLO Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@danielXYZ](https://github.com/danielxyz))
 
+* Tradução para PT-BR de trechos do arquivo ExpectAPI.md do Jest (v. 2)  ([contribuição](https://crowdin.com/editor/jest-v2/7504/en-ptbr?view=comfortable&filter=basic&value=0#q=1433057)  - [Regiana Cruz](https://github.com/RegianaBarbosa))
+* Tradução para PT-BR de trechos do arquivo CLI.md do Jest (v. 2) ([contribuição](https://crowdin.com/editor/jest-v2/7472/en-ptbr?view=comfortable&filter=basic&value=0#q=1727706) - [Regiana Cruz](https://github.com/RegianaBarbosa))
+
 
 ## Corrigir bug (?)
 
@@ -48,5 +51,5 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 
 ## Desenvolver estudo original com artigo sobre software livre (?)
-
+* Artigo sobre o uso do software livre na robótica educacional (["Software Livre como solução acessível para Robótica Educacional"](https://docs.google.com/document/d/1aQ4AGAZd1Fes1iDZ3i9-NjSuKq0S4O-Q/edit?usp=sharing&ouid=106948913235379296191&rtpof=true&sd=true) - Joniel Costa e [Regiana Cruz](https://github.com/RegianaBarbosa)).
 
