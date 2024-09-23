@@ -41,6 +41,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 *  Correção de bug para ferramenta de save automático que estava salvando os documentos sem a existência de qualquer alteração. ([PR #18](https://github.com/Slacky300/REAL_TIME_EDIFY/pull/18) - [a-mais(paulo-pinheiro)](https://github.com/a-mais));
 * Foi realizado um commit para o `Projeto Pessoal - Listador Online` [[Link do Projeto](https://github.com/PetsuTHEPRO/ListadorOnline)] para corrigir o bug de falha ao carregar as imagens do sistema. [[Commit](https://github.com/PetsuTHEPRO/ListadorOnline/commit/8953a0dead04672c8053a38c3c90a8f60ea036a6)] inclui a adição de uma lógica de prevenção de erros caso a imagem não exista, além da correção dos caminhos das imagens que estavam incorretos;
 
+
 ## Adicionar pequena funcionalidade (5)
 
 * Inclusão de suporte a [Deeplink Android](https://developer.android.com/training/app-links#deep-links) para tema NextJs: Funcionalidade permite que os usuários através de links ou do navegador possam ser redirecionados para os aplicativos que suportam a fonte de dados que usa o tema como base. ([PR #3231](https://github.com/keiyoushi/extensions-source/pull/3231) - [Chopper(daniel-rocha)](https://github.com/choppeh));
@@ -53,6 +54,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Foi feito o [pull request](https://github.com/cardo-podcast/cardo/pull/5/commits/8baef31b292edcd359a0a9a75919561d9abe8bcb) Essa solicitação de pull adiciona um componente VolumeControl ao arquivo AudioPlayer.tsx, permitindo que os usuários ajustem o volume e alternem entre os estados mudo e som. O componente inclui ícones para estados de volume e mudo e atualiza o volume de áudio e o estado mudo conforme necessário - [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
 
+* Adição de menu responsivo ao site do projeto [VsCodium](https://vscodium.com/) ([PR #87](https://github.com/VSCodium/vscodium.github.io/pull/87) - [@daniel99korban(daniel-lima)](https://github.com/daniel99korban));
 
 
 ## Adicionar grande funcionalidade (5)
@@ -66,6 +68,11 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adicionado funcionalidade de tema escuro e claro e botão alternador de modo escuro e modo claro para todo o software com persistência da escolha do modo em sessão  ([PR #17](https://github.com/Slacky300/REAL_TIME_EDIFY/pull/17) - [a-mais(paulo-pinheiro)](https://github.com/a-mais));
 
+main
+## Desenvolver estudo original com artigo sobre software livre (2)
+
+* Foi feito estudo original com artigo sobre software livre como alternativa ao monopólio tecnológico [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
+=======
  GabrielLeite2004-patch-1
 ## Desenvolver estudo original com artigo sobre software livre (2)
 
@@ -88,4 +95,6 @@ main
 main
 
 *Foi criado um estudo orginal (https://docs.google.com/document/d/1Zuemn9eKWMv4Ij97utJV1A1xRpEXgh80ltQ3Ig64LVk/edit?usp=sharing) sobre o tema Software Livre x Software Proprietário, com exemplos práticos. (Diego Rodrigo / Luís Gabriel)
+ main
 
+* Foi feito estudo original com artigo sobre software livre [@danie99korban](https://github.com/daniel99korban/SoftwareLivre2024-1/TrabalhoFinal/valter-oliveira-e-daniel-lima.md).
