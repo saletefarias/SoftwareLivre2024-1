@@ -23,13 +23,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Melhoria de de documentação corrigindo um erro tipográfico na palavra "precisa" - mais informações na [issue](https://github.com/mdn/translated-content/issues/23083) ligada à pull request e a própria pull request - além de outras correções para adequação da página ([contribuição - pull request #23701](https://github.com/mdn/translated-content/pull/23701)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao);
 * Melhoria de de documentação corrigindo documentação desatualizada, parcialemnte traduzida e com código utilizando propriedade deprecada de DOMException mais detalhes na [issue](https://github.com/mdn/translated-content/issues/18654) que essa pull request propõe resolver ([contribuição - pull request #23733](https://github.com/mdn/translated-content/pull/23733)) - [@AlexandrinoMaranhao(marcio-sa)](https://github.com/AlexandrinoMaranhao).
 
- main
+ 
 ## Realizar tradução (5)
-=======
-
-
-## Realizar tradução (4)
- main
 
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=658e910cac54b47a) - [@davidAly(david-alysson)](https://github.com/DavidAly));
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=4098574c0e119176) - [@davidAly(david-alysson)](https://github.com/DavidAly));
