@@ -66,7 +66,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adicionado funcionalidade de tema escuro e claro e botão alternador de modo escuro e modo claro para todo o software com persistência da escolha do modo em sessão  ([PR #17](https://github.com/Slacky300/REAL_TIME_EDIFY/pull/17) - [a-mais(paulo-pinheiro)](https://github.com/a-mais));
 
-## Desenvolver estudo original com artigo sobre software livre (0)
+## Desenvolver estudo original com artigo sobre software livre (2)
 
-*Foi feito estudo original com artigo sobre software livre como alternativa ao monopólio tecnológico [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
+* Foi feito estudo original com artigo sobre software livre como alternativa ao monopólio tecnológico [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
 
+* Foi feito estudo original com artigo sobre software livre [@danie99korban](https://github.com/daniel99korban/SoftwareLivre2024-1/TrabalhoFinal/valter-oliveira-e-daniel-lima.md).
