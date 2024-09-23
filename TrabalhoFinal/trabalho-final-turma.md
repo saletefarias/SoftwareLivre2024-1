@@ -78,14 +78,13 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Artigo sobre o uso do software livre na robótica educacional (["Software Livre como solução acessível para Robótica Educacional"](https://docs.google.com/document/d/1aQ4AGAZd1Fes1iDZ3i9-NjSuKq0S4O-Q/edit?usp=sharing&ouid=106948913235379296191&rtpof=true&sd=true) - Joniel Costa e [Regiana Cruz](https://github.com/RegianaBarbosa)).
 =======
 * Foi feito estudo original com artigo sobre software livre como alternativa ao monopólio tecnológico [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
-main
 
-*Foi criado um estudo orginal (https://docs.google.com/document/d/1Zuemn9eKWMv4Ij97utJV1A1xRpEXgh80ltQ3Ig64LVk/edit?usp=sharing) sobre o tema Software Livre x Software Proprietário, com exemplos práticos. (Diego Rodrigo / Luís Gabriel)
+* Foi criado um estudo orginal (https://docs.google.com/document/d/1Zuemn9eKWMv4Ij97utJV1A1xRpEXgh80ltQ3Ig64LVk/edit?usp=sharing) sobre o tema Software Livre x Software Proprietário, com exemplos práticos. (Diego Rodrigo / Luís Gabriel)
 
 * Foi feito estudo original com artigo sobre software livre [@danie99korban](https://github.com/daniel99korban/SoftwareLivre2024-1/TrabalhoFinal/valter-oliveira-e-daniel-lima.md).
 
 
-#Verificar onde os itens abaixo se encaixam
+## Verificar onde os itens abaixo se encaixam
 patch-3
 
 * Foi realizado commit's para o `Projeto Pessoal - Listador Online` [[Link do Projeto](https://github.com/PetsuTHEPRO/ListadorOnline)].
