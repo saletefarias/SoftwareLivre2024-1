@@ -20,7 +20,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 ## Melhorar documentação (0)
 
 
-
+## Tradução (9)
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=658e910cac54b47a) - [@davidAly(david-alysson)](https://github.com/DavidAly));
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=4098574c0e119176) - [@davidAly(david-alysson)](https://github.com/DavidAly));
 * Foi realizada a tradução para PT-BR do agregador de podcasts Cardo sob linceça GPL-3.0 [contribuição](https://github.com/cardo-podcast/cardo/pull/1) - [@Br3ndonn(Brendon Silva)](https://github.com/Br3ndonn);
