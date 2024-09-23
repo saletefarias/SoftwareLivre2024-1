@@ -26,7 +26,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
  
 ## Corrigir bug (0)
 
-## Realizar Tradução (9)
+## Realizar Tradução (12)
 
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=658e910cac54b47a) - [@davidAly(david-alysson)](https://github.com/DavidAly));
 * Foi feito uma tradução para PT-BR do Godot Editor - ([contribuição](https://hosted.weblate.org/translate/godot-engine/godot/pt/?checksum=4098574c0e119176) - [@davidAly(david-alysson)](https://github.com/DavidAly));
